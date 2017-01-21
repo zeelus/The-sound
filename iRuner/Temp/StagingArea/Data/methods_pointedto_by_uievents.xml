@@ -1,0 +1,10 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="StartGameScript">
+			<method name="startGame"/>
+		</type>
+		<type fullname="GameOverScript">
+			<method name="PlayAgain"/>
+		</type>
+	</assembly>
+</linker>
